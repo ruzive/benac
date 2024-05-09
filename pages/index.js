@@ -27,9 +27,9 @@ const Home = () => {
       <Navbar />
       <Hero />
       <SectionTitle
-        pretitle="Nextly Benefits"
+        pretitle="Benac Benefits"
         title=" Why should you use this landing page">
-        Nextly is a free landing page & marketing website template for startups
+        Benac is a free landing page & marketing website template for startups
         and indie projects. Its built with Next.js & TailwindCSS. And its
         completely open-source.
       </SectionTitle>
