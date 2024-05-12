@@ -12,9 +12,7 @@ const Hero = () => {
               Welcome to Benac
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              Benac is a free landing page & marketing website
-              template for startups and indie projects. Its built with
-              Next.js & TailwindCSS. And its completely open-source.
+            We are committed to creation of a conducive business environment through proviso of competitively priced and satisfying solutions to both commercial and retail customers, with an empowered and motivated staff.
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">

@@ -11,23 +11,23 @@ import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  title: "CORE BUSINESS",
+  desc: "To become the premier provider of affordable quality goods (brands) and services in Zambia based on our ability to deliver our products on time while adhering to high professional standards and ethics.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "Excellence",
+      desc: "We believe excellence is the standard for all we do and this is achieved by serving customers with consistency and improved efficiency. We are thus committed to continuous improvement of our product and service delivery. We assure value for money products and services.",
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Integrity",
+      desc: "We believe doing the right thing even when no one is looking or will find out thus compelling us to deal fairly with all stakeholders.",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: "Innovation",
+      desc: "Benac Enterprises Limited believes that innovation is an important element in everything we do i.e. ways of acquiring products visa-vis distribution and service delivery.",
       icon: <CursorArrowRaysIcon />,
     },
   ],
@@ -39,18 +39,18 @@ const benefitTwo = {
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
-      desc: "Benac is designed as a mobile first responsive template.",
+      title: "Passion",
+      desc: "We show pride, enthusiasm and dedication in everything that we do. We are committed to selling and delivering high quality products and services.",
       icon: <DevicePhoneMobileIcon />,
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
+      title: "Customer Satisfaction",
+      desc: "We ensure that our products and services always exceed our customer's expectation. Our business is nonexistent without our customers and that's why we earnestly value them. In order to maintain this client relationship we believe in pre-sale and post sale services.",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {
-      title: "Dark & Light Mode",
-      desc: "Benac comes with a zero-config light & dark mode. ",
+      title: "Quality",
+      desc: "Quality is at the forefront of the Company's work process and we believe in providing high quality products backed by efficient service.",
       icon: <SunIcon />,
     },
   ],

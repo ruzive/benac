@@ -5,8 +5,7 @@ import { Disclosure } from "@headlessui/react";
 
 const Navbar = () => {
   const navigation = [
-    "Product",
-    "Debonairs Pizza",
+    "Services",
     "Company",
     "Careers",
   ];
