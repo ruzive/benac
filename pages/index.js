@@ -28,7 +28,7 @@ const Home = () => {
       <Hero />
       <SectionTitle
         pretitle="Who is Benac"
-        title=" Why should you use this landing page">
+        title=" The company is run by a shrewd and qualified management ">
        Benac Enterprises Limited is a wholly owned Zambian company centrally located in Zambia's capital city Lusaka, along Makani Street, off Central Street in Jesmondine.
        We are into general trading and service provision. The Company is a franchisee of Famous Brands
        Zambia Limited and trades as Debonairs and Steers in various locations.
